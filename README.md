@@ -3,19 +3,30 @@
 
 🧩 Project Overview
 Customer churn directly impacts business revenue and long-term growth.
+
 This project analyzes customer churn patterns, identifies key churn drivers, and quantifies revenue loss and retention using SQL Server, Power BI, and analytical best practices.
+
 The goal is to help business stakeholders reduce churn and improve revenue retention through data-driven insights.
 _____________________
 🎯 Business Objectives
+
 •	Identify churned vs active customers
+
 •	Calculate churn rate and revenue loss
+
 •	Analyze churn by plan type, region, and customer segment
+
 •	Understand impact of usage behavior and support issues
+
 •	Provide actionable insights to reduce churn
 ________________________________________
+
 🏗️ Data Model (Industry Standard)
+
 This project follows a Star Schema approach:
+
 Fact Table
+
 •	subscriptions
 o	churn_flag
 o	monthly_fee
