@@ -1,5 +1,6 @@
 # customer-churn-revenue-retention-Analysis
 📊 Customer Churn & Revenue Retention Analysis
+
 🧩 Project Overview
 Customer churn directly impacts business revenue and long-term growth.
 This project analyzes customer churn patterns, identifies key churn drivers, and quantifies revenue loss and retention using SQL Server, Power BI, and analytical best practices.
@@ -95,6 +96,5 @@ This project demonstrates:
 ✅ Suitable for Data Analyst / BI Analyst roles
 ________________________________________
 📌 Author
-Your Name
+S.SAI VAMSHIDHAR
 Data Analyst
-GitHub: https://github.com/yourusername
