@@ -22,7 +22,7 @@ _____________________
 •	Provide actionable insights to reduce churn
 ________________________________________
 
-🏗️ Data Model (Industry Standard)
+🏗️ Data Model
 
 This project follows a Star Schema approach:
 
@@ -80,7 +80,7 @@ ________________________________________
 
 •	Power BI – Interactive dashboards & DAX measures
 
-•	Python (optional) – EDA & statistical analysis
+•	Python  – EDA & statistical analysis
 ________________________________________
 
 🗄️ SQL View Used
@@ -132,7 +132,7 @@ ________________________________________
 
 ______________________________________
 
-📈 Key Insights (Example)
+📈 Key Insights
 
 •	Higher churn observed in basic plans
 
