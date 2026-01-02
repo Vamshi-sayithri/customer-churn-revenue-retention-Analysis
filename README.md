@@ -172,9 +172,6 @@ This project demonstrates:
 •	Business-focused analytical thinking
 
 •	Stakeholder-ready reporting
-
-✅ Suitable for Data Analyst / BI Analyst roles
-
 ________________________________________
 
 📌 Author
